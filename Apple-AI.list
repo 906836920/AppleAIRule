@@ -14,7 +14,7 @@ HOST-SUFFIX,apple-relay.mask.apple-dns.net
 HOST-SUFFIX,cp4.cloudflare.com
 HOST-SUFFIX,gspe1-ssl.ls.apple.com
 HOST-SUFFIX,gateway.icloud.com
-HOST-SUFFIX,ls.apple.com
+#HOST-SUFFIX,ls.apple.com
 HOST-SUFFIX,mask-h2.icloud.com
 HOST-SUFFIX,mask.icloud.com
 HOST-SUFFIX,apps.mzstatic.com
