@@ -1,6 +1,6 @@
 # Apple Intelligence / Siri / Relay rules / CN Maps
 # Route these domains to a supported-region proxy group, such as a TW node
-HOST,*cn-ssl.ls.apple.com, direct
+HOST,*cn-ssl.ls.apple.com, MAINLAND
 HOST,guzzoni.apple.com
 HOST,mask-api.fe.apple-dns.net
 HOST,mask-api.icloud.com
