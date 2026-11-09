@@ -1,12 +1,12 @@
 # Apple Intelligence / Siri / Relay rules / CN Maps
-# Route these domains to a supported-region proxy group, such as a TW node.
+# Route these domains to a supported-region proxy group, such as a TW node
+HOST,*cn-ssl.ls.apple.com, direct
 HOST,guzzoni.apple.com
 HOST,mask-api.fe.apple-dns.net
 HOST,mask-api.icloud.com
 HOST,mask-t.apple-dns.net
 HOST,mask.apple-dns.net
 HOST,wps.apple.com
-HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com, direct
 HOST-SUFFIX,smoot.apple.com
 HOST-SUFFIX,apple-relay.apple.com
 HOST-SUFFIX,apple-relay.cloudflare.com
